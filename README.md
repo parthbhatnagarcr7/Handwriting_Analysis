@@ -2,10 +2,10 @@ Graphology is a method of identifying, evaluating, and understanding human perso
 
 Support Vector Machines (SVM) are used to classify the following handwriting features into a few selected personality traits.
 
-Top margin
-Pen pressure
-Baseline angle
-Letter size
-Line spacing
-Word spacing
-Slant angle
+1.Top margin <br>
+2.Pen pressure<br>
+3.Baseline angle<br>
+4.Letter size<br>
+5.Line spacing<br>
+6.Word spacing<br>
+7.Slant angle<br>
